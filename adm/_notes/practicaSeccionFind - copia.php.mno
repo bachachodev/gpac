@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSeccion" value="name:asigID;datatype:int,name:progCodigo;datatype:string,name:asigCodigo;datatype:string,name:asigTipo;datatype:string,name:asigNombre;datatype:string,name:asigVigencia;datatype:int,name:seccID;datatype:int,name:seccCodigo;datatype:string,name:asigCodigo;datatype:string,name:seccNumero;datatype:int,name:secNumDocDocente;datatype:string,name:espeCodigo;datatype:string,name:seccTipo;datatype:string,name:seccVigencia;datatype:int,name:espeID;datatype:int,name:espeCodigo;datatype:string,name:espeNombre;datatype:string,name:espeVigencia;datatype:int" />
+</info>

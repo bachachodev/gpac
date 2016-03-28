@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsAsignatura" value="name:asigID;datatype:int,name:progCodigo;datatype:string,name:asigCodigo;datatype:string,name:asigTipo;datatype:string,name:asigNombre;datatype:string,name:asigVigencia;datatype:int" />
+</info>
